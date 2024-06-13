@@ -1,0 +1,8 @@
+{
+  "rules": {
+    "space-before-function-paren": "off",
+    "multiline-ternary": "off",
+    "no-unused-vars": "off",
+    "no-undef": "off"
+  }
+}
